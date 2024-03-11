@@ -1,1 +1,2 @@
-# Write your code here
+def sum_dict_values(dic):
+    return sum(dic.values())
